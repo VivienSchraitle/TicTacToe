@@ -19,6 +19,7 @@ public class GUI {
                 			button.setText("X");
                 			button.setFont(new Font("Arial", Font.BOLD, 50));
                 			
+                			
                     }
                 }
             });
